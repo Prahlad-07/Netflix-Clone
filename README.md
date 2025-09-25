@@ -7,6 +7,34 @@ A Netflix-inspired streaming platform clone built with React for learning purpos
 ![Firebase](https://img.shields.io/badge/Firebase-Auth-FFCA28?logo=firebase)
 ![TMDB API](https://img.shields.io/badge/TMDB-API-01B4E4)
 
+## 📸 Application Screenshots
+
+<div align="center">
+  
+### 🏠 Main Dashboard
+*Browse through different movie categories with a beautiful Netflix-inspired interface*
+  
+![Main Dashboard](https://github.com/Prahlad-07/Netflix-Clone/blob/main/src/App-Screenshots/Main_dashboard.png)
+
+### 🎬 Video Player
+*Seamless video streaming experience with embedded YouTube player*
+
+![Video Player](https://github.com/Prahlad-07/Netflix-Clone/blob/main/src/App-Screenshots/Player.png)
+
+### 📋 Movie Collections
+*Organized movie lists with smooth horizontal scrolling*
+
+![Video Lists](https://github.com/Prahlad-07/Netflix-Clone/blob/main/src/App-Screenshots/VideoLists.png)
+
+### 🔐 Sign In Page
+*Clean and intuitive authentication interface*
+
+![Sign In](https://github.com/Prahlad-07/Netflix-Clone/blob/main/src/App-Screenshots/SignIn.png)
+
+</div>
+
+---
+
 ## 🎯 Learning Objectives
 
 This project was created to master key React concepts:
@@ -280,3 +308,12 @@ Resources that helped build this project:
 - [Firebase Documentation](https://firebase.google.com/docs)
 - [TMDB API Documentation](https://developers.themoviedb.org/3)
 
+---
+
+<div align="center">
+  
+**⭐ If you found this project helpful for learning React, please give it a star!**
+
+Made with ❤️ for learning React development
+
+</div>
